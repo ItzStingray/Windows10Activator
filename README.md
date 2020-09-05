@@ -14,4 +14,4 @@ Step 4: Click o Run As Administrator
 Step 5: The program will open. Just wait, every time a Windows Script Host box appears, click on OK
 
 
-#Your Copy Of Windows Is Now Activated!
+# Your Copy Of Windows Is Now Activated!
